@@ -1,0 +1,7 @@
+#忽略vscode目录
+.vscode/
+#忽略node_modules
+node_modules/
+#忽略依赖配置信息
+package.json
+package-lock.json
